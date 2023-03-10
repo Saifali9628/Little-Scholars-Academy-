@@ -127,9 +127,9 @@ h6 {
 #header .logo img {
     max-width: 100px;
     max-height: 80px;
-    position: absolute;
-    top: 5px;
-    left: 5px;
+    position: relative;
+    /* top: 5px;
+    left: 5px; */
 }
 
 
